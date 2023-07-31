@@ -26,3 +26,7 @@ Outputs the required data for the preliminary design of the Airframe
 finally come and insert it again to continue!!!
 
 > Note!!! New updates will be provided soon!
+
+
+# license:
+**license has its own file, and it is under AeroSpace_CairoUniversity GitHub Community License. I am the main contributor.**
